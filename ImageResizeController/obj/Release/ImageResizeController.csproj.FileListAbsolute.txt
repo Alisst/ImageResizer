@@ -1,0 +1,5 @@
+c:\users\alisst\documents\visual studio 2017\Projects\ImageResizerAli\ImageResizeController\bin\Release\ImageResizeController.dll
+c:\users\alisst\documents\visual studio 2017\Projects\ImageResizerAli\ImageResizeController\bin\Release\ImageResizeController.pdb
+c:\users\alisst\documents\visual studio 2017\Projects\ImageResizerAli\ImageResizeController\obj\Release\ImageResizeController.csprojResolveAssemblyReference.cache
+c:\users\alisst\documents\visual studio 2017\Projects\ImageResizerAli\ImageResizeController\obj\Release\ImageResizeController.dll
+c:\users\alisst\documents\visual studio 2017\Projects\ImageResizerAli\ImageResizeController\obj\Release\ImageResizeController.pdb
