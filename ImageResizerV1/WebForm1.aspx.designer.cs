@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace ImageResizerV1 {
+namespace ImageResizer {
     
     
     public partial class WebForm1 {

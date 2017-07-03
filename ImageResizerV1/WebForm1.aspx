@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="WebForm1.aspx.cs" Inherits="ImageResizerV1.WebForm1" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="WebForm1.aspx.cs" Inherits="ImageResizer.WebForm1" %>
 
 <!DOCTYPE html>
 
@@ -13,8 +13,8 @@
         <img src="images/beşiktaş.jpg?width=200&height=200&mode=stretch" />
     </div>
     <hr/>
-    <da:MyImage ID="imgBesiktas" runat="server" ImageUrl="images/beşiktaş.jpg" MaxHeight="125"
-                MaxWidth="125" Quality="90" Thumbnail="false" Scaled="true" />
+    <da:MyImage ID="imgBesiktas" runat="server" ImageUrl="images/beşiktaş.jpg" MaxHeight="250"
+                MaxWidth="250" Quality="90" Thumbnail="false" Scaled="true" />
 </form>
 </body>
 </html>
