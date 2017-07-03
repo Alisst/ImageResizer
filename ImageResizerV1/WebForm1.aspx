@@ -18,3 +18,8 @@
 </form>
 </body>
 </html>
+
+<%--http://imageresizing.net/docs/v4/plugins/remotereader
+    https://stackoverflow.com/questions/31601381/does-imageresizer-work-on-external-urls
+    https://www.google.com.tr/search?q=imageresizer+with+out+of+project+image&ie=utf-8&oe=utf-8&gws_rd=cr&ei=JUhaWbORNcLfUdqfrZAJ#q=asp.net+imageresizer+with+external+image
+    --%>

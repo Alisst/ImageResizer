@@ -38,3 +38,5 @@ c:\users\alisst\documents\visual studio 2017\Projects\ImageResizerAli\ImageResiz
 c:\users\alisst\documents\visual studio 2017\Projects\ImageResizerAli\ImageResizerV1\obj\Debug\ImageResizer.csprojResolveAssemblyReference.cache
 c:\users\alisst\documents\visual studio 2017\Projects\ImageResizerAli\ImageResizerV1\obj\Debug\ImageResizerV1.dll
 c:\users\alisst\documents\visual studio 2017\Projects\ImageResizerAli\ImageResizerV1\obj\Debug\ImageResizerV1.pdb
+c:\users\alisst\documents\visual studio 2017\Projects\ImageResizerAli\ImageResizerV1\bin\ImageResizer.Plugins.RemoteReader.dll
+c:\users\alisst\documents\visual studio 2017\Projects\ImageResizerAli\ImageResizerV1\bin\ImageResizer.Plugins.RemoteReader.xml
